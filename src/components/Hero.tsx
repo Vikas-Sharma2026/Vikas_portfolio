@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import { ArrowDown, Rocket, Send, Sparkles, Terminal } from 'lucide-react';
 import { PORTFOLIO_DATA } from '../data/portfolioData';
-import portraitImg from '../assets/images/Profile_photo.jpg';
+import portraitImg from '../assets/Profile_photo.jpg';
 
 export function Hero() {
   const { profile } = PORTFOLIO_DATA;
