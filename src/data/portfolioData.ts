@@ -284,7 +284,7 @@ export const PORTFOLIO_DATA: {
           role: "System"
         }
       ],
-      image: "/src/assets/images/project_lost_and_found_1791005789657.jpg",
+      image: "",
       imageAlt: "Lost and Found Management System Interface Preview",
       links: {
         github: "https://github.com/Vikas-Sharma2026",
